@@ -41,7 +41,6 @@ void logger(const char *text)
         perror("Error al escribir en el log");
         exit(1);
     }
-    printf("%s\n", text);
 }
 
 void cerrarLogger()

@@ -2,12 +2,9 @@
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
 	<File name="central.c" open="1" top="1" tabpos="0">
-		<Cursor position="8603" topLine="310" />
+		<Cursor position="6954" topLine="243" />
 	</File>
 	<File name="logger.c" open="0" top="0" tabpos="0">
-		<Cursor position="0" topLine="21" />
-	</File>
-	<File name="logger.h" open="0" top="0" tabpos="0">
-		<Cursor position="53" topLine="0" />
+		<Cursor position="796" topLine="26" />
 	</File>
 </CodeBlocks_layout_file>

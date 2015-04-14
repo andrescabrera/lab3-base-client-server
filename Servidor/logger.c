@@ -24,7 +24,6 @@ int inicializarLogger ()
         perror("Error al crear o abrir el log");
         return EXIT_FAILURE;
     }
-    printf("Abri el archivo\n");
 }
 
 ///@brief Loggea tanto en el servidor como en el cliente en un archivo de texto.
@@ -41,7 +40,6 @@ void logger(const char *text)
         perror("Error al escribir en el log");
         exit(1);
     }
-    printf("%s\n", text);
 }
 
 void cerrarLogger()

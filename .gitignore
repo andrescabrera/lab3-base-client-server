@@ -17,3 +17,6 @@
 *.exe
 *.out
 *.app
+#Ignoro las carpetas bin del cliente y del servidor
+Servidor/bin/
+Cliente/bin/
